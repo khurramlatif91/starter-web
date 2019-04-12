@@ -5,3 +5,5 @@ This is just for demo purpose
 ## Deployment
 ## How to Contribute
 Please fork this repository and issue pull request for review
+##Copyright
+All rights reserved
